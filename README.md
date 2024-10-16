@@ -1,2 +1,2 @@
-# Electron MySQL CRUD
+# Electron MySQL Add/Remove/Edit Product
 ![](./screenshot.png)
